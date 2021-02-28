@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aclonica</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/almendra_sc</item>
+        <item>@font/diplomata</item>
+        <item>@font/gravitas_one</item>
+        <item>@font/marko_one</item>
+        <item>@font/old_standard_tt_italic</item>
+        <item>@font/pacifico</item>
+        <item>@font/purple_purse</item>
+        <item>@font/rock_salt</item>
+    </array>
+</resources>
